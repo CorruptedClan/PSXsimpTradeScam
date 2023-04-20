@@ -3,7 +3,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/
 
 
 -- Main
-local Window = OrionLib:MakeWindow({Name = "Trade Scam (⭐Premium)", HidePremium = false, IntroText = "Simp Hub", SaveConfig = true, ConfigFolder = "Orion1"})
+local Window = OrionLib:MakeWindow({Name = "Trade Scam (⭐Premium)", HidePremium = false, SaveConfig = true, ConfigFolder = "Orion1"})
 
 -- Tab 1
 local TradeTab = Window:MakeTab({ 
