@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local Window = Library.CreateLib("TITLE", "DarkTheme")
+local Window = Library.CreateLib("Simp Trade Scam (⭐Premium)", "DarkTheme")
 
 -- Main
 
